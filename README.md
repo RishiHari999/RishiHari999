@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishiHari999
 - 👀 I’m interested in coding, Doing research and becoming data scientist
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on . . .
 - 📫 How to reach me Through instagram and github
 
 <!---
