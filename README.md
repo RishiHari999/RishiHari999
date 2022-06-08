@@ -1,4 +1,4 @@
-My name is N. Rishi Chaitanya Sri Prasad
+N. Rishi Chaitanya Sri Prasad
 ==============================================
 
 Student
