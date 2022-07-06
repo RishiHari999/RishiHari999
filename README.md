@@ -4,13 +4,14 @@ N. Rishi Chaitanya Sri Prasad
 Student
 -------
 
-Now, I am pursuing my B-Tech 2nd year in SRM AP. i'm more intrested to learn every day and doing some kind of Research or Project. i will not make myself free because i'm more passionated to become Data Scientist.
+Now, I am pursuing my B-Tech 2nd year in SRM AP. 
 
 *   🌍  I'm based in Guntur,Andhra Pradesh
 *   ✉️  You can contact me at [sriprasad\_nalluri@srmap.edu.in](mailto:sriprasad_nalluri@srmap.edu.in)
 *   🧠  I'm learning Machine Learning
 *   🤝  I'm open to collaborating on Research (or) Project
 *   ⚡  My Favorite singer : Lisa of Blackpink
+*   💜  Songs of BlackPink, BTS.
 
 ### Skills
 <p align="left">
